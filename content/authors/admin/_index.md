@@ -5,9 +5,11 @@ avatar_filename: ""
 bio: My research interests include External Aerodynamics, CFD, UAV Design and
   Virtual Reality.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Aerodynamics
+  - SBLI
+  - Icing/De-icing
+  - CFD
+  - VirtualReality
 social:
   - icon: envelope
     icon_pack: fas
