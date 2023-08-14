@@ -1,9 +1,9 @@
 ---
 title: PUGAZHENDHI PRIYAN
 role: Student at Manipal Institute of Technology
-avatar_filename: pfp.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ""
+bio: My research interests include External Aerodynamics, CFD, UAV Design and
+  Virtual Reality.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
