@@ -12,7 +12,7 @@ interests:
   - VirtualReality
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: /#contact
   - icon: twitter
     icon_pack: fab
