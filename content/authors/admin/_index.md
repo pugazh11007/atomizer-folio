@@ -33,8 +33,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Manipal Institute of Technology
+    url: https://manipal.edu/mit.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
